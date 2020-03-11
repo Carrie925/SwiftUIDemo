@@ -264,4 +264,6 @@ Step 3: Switch Preview Mode from static to alive (When previews are in static mo
 
 Reference: https://developer.apple.com/tutorials/swiftui/creating-and-combining-views
 
-Demo: 
+Demo: https://github.com/Carrie925/SwiftUIDemo.git
+
+Author: Carrie D Wang
