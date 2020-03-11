@@ -2,14 +2,14 @@
 
 
 
-# SwiftUI Tutorial  - Create and Combining Views 
+# SwiftUI Tutorial  - Creating and Combining Views 
 
 ***SwiftUI is a modern way to declare user interfaces for any Apple platform. Create beautiful, dynamic apps faster than ever before.***
 
-
-
 #### 1. Create a "Hello World!" Project
 ![](./SwiftUI/1.png)
+
+![](./SwiftUI/17.png)
 
 ![](./SwiftUI/2.png)
 
@@ -254,11 +254,20 @@ Step 3: Switch Preview Mode from static to alive (When previews are in static mo
 
 ![](./SwiftUI/14.png)
 
-#### 7. Use "UItextView" from UIKit and SwiftUI Views Together
+#### 7.Compose the Detail View
+
+![](./SwiftUI/16.png)
+
+- edgesIgnoringSafeArea(.top): allow the map content to extend to the top edge of the screen, 
+
+#### 8. Use "UItextView" from UIKit and SwiftUI Views Together
 
 ![](./SwiftUI/15.png)
 
 ​	Download and refer to the Demo!!!
+
+#### 
+
 
 
 

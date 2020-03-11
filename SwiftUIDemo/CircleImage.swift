@@ -12,7 +12,7 @@ struct CircleImage: View {
     @available(iOS 13.0.0, *)
     var body: some View {
         Image("turtlerock")
-        .clipShape(Path(roundedRect: CGRect(x: 0, y: 0, width: 500, height: 240), cornerRadius: 100))
+        .clipShape(Circle())
         .overlay(
         Circle().stroke(Color.white, lineWidth: 4))
         .shadow(radius: 10)
